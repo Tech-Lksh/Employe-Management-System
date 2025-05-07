@@ -2,9 +2,15 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div className='flex w-fit bg-red-700'>
-      App JavaScript
-    </div>
+    <nav>
+      <div>
+        <a href="">Home</a>
+        <a href="">Service</a>
+        <a href="">Contact</a>
+        <a href="">Home</a>
+        <a href="">Home 2</a>
+      </div>
+    </nav>
   )
 }
 
